@@ -15,4 +15,4 @@ Then we can plot l, b, d=1/parallax etc.
 
 Final vizualization using partiview: [youtube video](https://www.youtube.com/embed/jY-2towHHaY)
 
-![CMD of selected stars in DR2](figs/gaia_massive_cmd.pdf)
+![CMD of selected stars in DR2](figs/gaia_massive_cmd.png)
