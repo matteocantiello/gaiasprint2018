@@ -11,5 +11,7 @@ Special thanks to Alcione Mora, Hans-Walter Rix, Jonathan Gagné and Jackie Fahe
 - Cut in |b| < 20
 - Cut in |$\mu_b$| < 20 km/s
 
-
 Then we can plot l, b, d=1/parallax etc.
+
+Final vizualization using partiview: [youtube video](https://www.youtube.com/embed/jY-2towHHaY)
+
