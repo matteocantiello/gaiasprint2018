@@ -3,7 +3,7 @@
 
 Special thanks to Alcione Mora, Hans-Walter Rix, Jonathan Gagné and Jackie Faherty
 
-## We have applied the following selection criteria to extract the massive stars from the DR2 release
+### We have applied the following selection criteria to extract the massive stars from the DR2 release
 - Wise mag < -1
 - phot_g_mean_mag - w1mpro < 1.5
 - w2mpro - w3mpro between -0.4 and 0.2
