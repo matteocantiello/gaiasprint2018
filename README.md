@@ -1,7 +1,7 @@
 # Massive Stars in Gaia DR2
 ## Small project started during the Gaiasprint 2018
 
-Special thanks to Alcione Mora, Hans-Walter Rix, Jonathan Gagné and Jackie Faherty
+Special thanks to Alcione Mora, Hans-Walter Rix, Jonathan Gagné, Jackie Faherty and Adrian Price-Whelan
 
 ### We have applied the following selection criteria to extract the massive stars from the DR2 release
 - Wise mag < -1
